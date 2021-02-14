@@ -13,14 +13,35 @@ h3{
 .import{
     font: large;
 }
+.import p{
+font: medium;
+}
 .projects{
-    background-color: red;
+    color: indigo;
+    padding: 3px;
+    float: left;
 }
 img{
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     margin: 5px;
     }
 p{
     background-color: white;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+        float: left;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: white;
+  }
+}
+body{
+    font-family: sans-serif;
+
 }
