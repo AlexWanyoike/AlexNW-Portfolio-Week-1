@@ -6,8 +6,9 @@ h2{
 ul{
     color: black;
 }
-.bold{
-    ;
+h3{
+    color: black;
+    text-align: left;
 }
 .import{
     font: large;
@@ -20,3 +21,6 @@ img{
     padding: 10px;
     margin: 5px;
     }
+p{
+    background-color: white;
+}
