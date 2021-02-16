@@ -9,7 +9,8 @@ This is an online profile with the Week 1 independent project. It highlights all
 ### CSS ###
 ## Support and contact details
 #### Not Applicable ####
-### License
+### License ### 
+{https://alexwanyoike.github.io/AlexNW-Portfolio-Week-1/}
 #### Configuring npm for use with GitHub Packages
 You can configure npm to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in an npm project.
 
